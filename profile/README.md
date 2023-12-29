@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" src="./logo.svg">
+  <img width="460" src="./profile/lineas-change-game-text_icon.png">
 </p>
 
 ## Who are we?
